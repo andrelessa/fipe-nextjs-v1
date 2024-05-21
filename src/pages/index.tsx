@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import Head from 'next/head';
 import axios from 'axios';
 import { GetStaticProps } from 'next';
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 import FormFipe from '../components/FormFipe';
 import Result from '../components/Result';
