@@ -2,7 +2,7 @@
 
 [Demo](https://fipe-nextjs-v1.vercel.app/)
 
-<img src="./fipe.png" alt="Fipe Demo">
+<img src="./public/Screenshot.png" alt="Consultar Tabela Fipe">
 
 ## Rodar o Projeto FIPE-NEXTJS
 
